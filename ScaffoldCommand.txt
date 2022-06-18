@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=database-1.c1f6toreiojm.ap-south-1.rds.amazonaws.com;Database=DeltaDB;User Id=admin;Password=developer" Microsoft.EntityFrameworkCore.SqlServer --output-dir Entities
